@@ -35,7 +35,7 @@ const prefixMatch = m.body.match(/^[\\/!#.]/);
     });
 
     // Send a reply to the user
-    m.reply("dragen md acive.");
+    m.reply("rush md acive.");
    }
 };
 
