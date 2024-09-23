@@ -13270,20 +13270,20 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`Rush-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`rush-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Rush-MD", "safari", "3.3"],
+            browser: ["rush-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "Rush-MD whatsapp user bot" };
+                return { conversation: "rush-MD whatsapp user bot" };
             }
         });
 
@@ -13295,5 +13295,70 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Rush wa bot active"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `Rush wa bot active` });
+                    console.log(chalk.green("rush wa bot active"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `rush wa bot active` });
+                    initialConnection = false;
+                } else {
+                    console.log(chalk.blue("Connection reestablished after restart."));
+                }
+            }
+        });
+
+        Matrix.ev.on('creds.update', saveCreds);
+
+        Matrix.ev.on("messages.upsert", async chatUpdate => await Handler(chatUpdate, Matrix, logger));
+        Matrix.ev.on("call", async (json) => await Callupdate(json, Matrix));
+        Matrix.ev.on("group-participants.update", async (messag) => await GroupUpdate(Matrix, messag));
+
+        if (config.MODE === "public") {
+            Matrix.public = true;
+        } else if (config.MODE === "private") {
+            Matrix.public = false;
+        }
+
+        Matrix.ev.on('messages.upsert', async (chatUpdate) => {
+            try {
+                const mek = chatUpdate.messages[0];
+                if (!mek.key.fromMe && config.AUTO_REACT) {
+                    console.log(mek);
+                    if (mek.message) {
+                        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+                        await doReact(randomEmoji, mek, Matrix);
+                    }
+                }
+            } catch (err) {
+                console.error('Error during auto reaction:', err);
+            }
+        });
+    } catch (error) {
+        console.error('Critical Error:', error);
+        process.exit(1);
+    }
+}
+
+async function init() {
+    if (fs.existsSync(credsPath)) {
+        console.log("Session file found, proceeding without QR code.");
+        await start();
+    } else {
+        const sessionDownloaded = await downloadSessionData();
+        if (sessionDownloaded) {
+            console.log("Session downloaded, starting bot.");
+            await start();
+        } else {
+            console.log("No session found or downloaded, QR code will be printed for authentication.");
+            useQR = true;
+            await start();
+        }
+    }
+}
+
+init();
+
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+});
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
