@@ -41,7 +41,7 @@ wa.me//94762498519?text=HI_dear
     });
 
     // Send a reply to the user
-    m.reply("dragen md acive.");
+    m.reply("©𝚙𝚘𝚠𝚎𝚛𝚍 𝚋𝚢 𝚛𝚞𝚜𝚑 𝚖𝚍.");
    }
 };
 
