@@ -1,4 +1,3 @@
-##  මේ මේ බැලුවට butoon උස්සන්නැ හරි අද create කලේ😂 පොඩ්ඩක් ඉන්න මේක boost කරනම් 😂😂
 # RUSH MD
 
 <p align="center">
@@ -26,7 +25,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## CONTACT BOT DEPLOY PLAN
 
-<a href='wa.me//94762498519?text=hi_mounthly_plan_එකට_බොට්_හදගන්න_ඕනෙ👋' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Mounthly plan-yellow?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+## wa.me//94762498519?text=hi_mounthly_plan_එකට_බොට්_හදගන්න_ඕනෙ👋
 
 
 
@@ -38,7 +37,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ##  wa group
 
-<a href='https://chat.whatsapp.com/DS6iXMBCCgCKlc3Pvaf9rh' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get whatsapp group-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://chat.whatsapp.com/DS6iXMBCCgCKlc3Pvaf9rh' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get whatsapp group-yellow?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 
 
