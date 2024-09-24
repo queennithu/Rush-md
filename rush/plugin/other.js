@@ -41,7 +41,7 @@ https://www.mediafire.com/file/uc0yizt82oc68hj/nithustore.apk/file   ✨✨✨�
     });
 
     // don,t edite this message
-    m.reply("ඔබගේ ගීතය upload වෙමින් ඔන තවමත් suvi tech yt subcribe කර නොමැතිනම් දැන්ම කරන්න🔔💓.");
+    m.reply("your song is send sucsess✔️.");
    }
 };
 
