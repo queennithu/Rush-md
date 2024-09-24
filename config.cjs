@@ -3,7 +3,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Rush~pair",
+  SESSION_ID: process.env.SESSION_ID || "Rushmd~yL0Z0XmH",
   PREFIX: process.env.PREFIX || '.',
   MODE: process.env.MODE || "public",
   };
