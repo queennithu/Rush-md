@@ -33,7 +33,7 @@ const prefixMatch = m.body.match(/^[\\/!#.]/);
     });
 
     // Send a reply to the user
-    m.reply("Rush md ඔබගෙ ගීතය ලබා දුන්න😃 දැම් අපගෙ suvi tech නාලිකාවට දයක වන්න❤️‍🩹.");
+    m.reply("the suvi tech youtube chanel and rush md✅.");
    }
 };
 
