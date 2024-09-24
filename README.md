@@ -1,5 +1,4 @@
----
-
+##  මේ මේ බැලුවට butoon උස්සන්නැ හරි අද create කලේ😂 පොඩ්ඩක් ඉන්න මේක boost කරනම් 😂😂
 # RUSH MD
 
 <p align="center">
