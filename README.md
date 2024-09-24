@@ -24,8 +24,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 
 ## CONTACT BOT DEPLOY PLAN
-
-## wa.me//94762498519?text=hi_mounthly_plan_එකට_බොට්_හදගන්න_ඕනෙ👋
+## mounthly plan wa bot deploy https://wa.me/94762498519?text=mounthly_plan✨
 
 
 
