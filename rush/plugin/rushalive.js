@@ -600,7 +600,7 @@ const handleRepoCommand = async (m, Matrix) => {
 
     const messageText = `👋RUSH MD WA BOT:
 
-    \n🍴 *Forks:* ${forks_count}`;
+    \n✨ *Forks:* ${forks_count}`;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
 
