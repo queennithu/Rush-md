@@ -19,8 +19,8 @@ Start by forking this repository to your own GitHub account. Click the button be
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
 <a href='https://suvistore.blogspot.com/2024/09/qeen-nithu.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
-
-
+## pair
+https://lite-session-7ldi.onrender.com/code
 
 
 ## CONTACT BOT DEPLOY PLAN
