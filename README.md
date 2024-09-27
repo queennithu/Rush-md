@@ -1,8 +1,5 @@
 # RUSH MD
 
-##  youtube how to deploy https://youtu.be/sOXPWPHM32w?si=e1u5V8ouLRYgzkTa
-
-
 <p align="center">
   <a href="https://github.com/Rush-techmd"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Rush-MD+MultiDevice;Developed+by+Rush;Give+star+and+forks+this+Repo+🌟" alt="RushReadme"></a>
 </p>
@@ -42,7 +39,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 ## mounthly plan wa bot deploy https://wa.me/94762498519?text=mounthly_plan✨
 
 
-
+##  youtube how to deploy https://youtu.be/sOXPWPHM32w?si=e1u5V8ouLRYgzkTa
 
 ## wa channel
 
