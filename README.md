@@ -18,9 +18,15 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
-<a href='https://suvistore.blogspot.com/2024/09/qeen-nithu.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
-## pair
-https://lite-session-7ldi.onrender.com/code
+<a href='https://suvistore.blogspot.com/2024/09/qeen-nithu.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+
+## rush md pair
+<a href='https://fx-session-o6in.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+## rush md pair 
+<a href='https://rushmdpair.osc-fr1.scalingo.io/code' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+
+## rush md pair
+<a href='https://lite-session-7ldi.onrender.com/code' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 
 ## CONTACT BOT DEPLOY PLAN
@@ -29,9 +35,9 @@ https://lite-session-7ldi.onrender.com/code
 
 
 
+## wa channel
 
-
-
+<a href='https://whatsapp.com/channel/0029VaicAPo2P59qng5LjY0m' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get whatsapp channel-yellow?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 
 ##  wa group
