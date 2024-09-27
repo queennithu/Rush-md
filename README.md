@@ -1,5 +1,8 @@
 # RUSH MD
 
+##  youtube how to deploy https://youtu.be/sOXPWPHM32w?si=e1u5V8ouLRYgzkTa
+
+
 <p align="center">
   <a href="https://github.com/Rush-techmd"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Rush-MD+MultiDevice;Developed+by+Rush;Give+star+and+forks+this+Repo+🌟" alt="RushReadme"></a>
 </p>
@@ -22,6 +25,10 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## rush md pair
 <a href='https://fx-session-o6in.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+
+working pair
+
+
 ## rush md pair 
 <a href='https://rushmdpair.osc-fr1.scalingo.io/code' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
