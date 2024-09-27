@@ -21,12 +21,11 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
-<a href='https://suvistore.blogspot.com/2024/09/qeen-nithu.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## rush md pair
 <a href='https://fx-session-o6in.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
-working pair
+## working pair
 
 
 ## rush md pair 
@@ -35,6 +34,9 @@ working pair
 ## rush md pair
 <a href='https://lite-session-7ldi.onrender.com/code' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
+
+## rush md pair 
+<a href='https://suvistore.blogspot.com/2024/09/qeen-nithu.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## CONTACT BOT DEPLOY PLAN
 ## mounthly plan wa bot deploy https://wa.me/94762498519?text=mounthly_plan✨
