@@ -576,10 +576,6 @@
 
 
 
-
-
-
-
 import pkg, { prepareWAMessageMedia } from '@whiskeysockets/baileys';
 
 const { generateWAMessageFromContent, proto } = pkg;
@@ -751,10 +747,3 @@ const searchRepo = async (m, Matrix) => {
 };
 
 export default searchRepo;
-           
-
-   
-              
-              
-            
-   
