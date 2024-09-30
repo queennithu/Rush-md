@@ -13,9 +13,7 @@ const prefixMatch = m.body.match(/^[\\/!#.]/);
   if (!text) return m.reply(`You can deploy our bot 
 
 300LKR MOUNTHLY   
-
-අවශයතාව තිබෙන ඔබ පමනක් contact කරන්න
-
+THE PRENUM PLAN 📁
 
 our youtube support  🔔
 https://youtube.com/@suvitech-c3q?si=Sd9VZnZsi40HGYvS
